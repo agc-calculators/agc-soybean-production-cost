@@ -1,0 +1,1 @@
+// AgcSoybeanProductionCost: ES Module
